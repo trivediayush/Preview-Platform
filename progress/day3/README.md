@@ -1,4 +1,4 @@
-# Day 2 — AWS EC2 + K3s Foundation + ECR
+# Day 3 — AWS EC2 + K3s Foundation + ECR
 
 **Project:** Atrivedi Preview Platform
 **Repository:** `Preview-Platform`
